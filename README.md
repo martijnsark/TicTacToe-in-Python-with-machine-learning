@@ -1,4 +1,4 @@
-# Dutch_translation_TicTacToe_in_Python
+# Dutch-translation-TicTacToe-in-Python
 
 ### Where to find English translation
 
@@ -310,7 +310,7 @@ python .\"SchrijfPyGameTitle.py"
 
 
 
-# English_translation_TicTacToe_in_Python
+# English-translation-TicTacToe-in-Python
 
 
 ### Terug_naar_het_Nederlands
